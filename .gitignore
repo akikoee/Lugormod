@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+.vs
 
 # Build results
 [Dd]ebug/
@@ -237,3 +238,9 @@ $RECYCLE.BIN/
 *.txt
 *.rar
 *.opendb
+
+#############
+## Unix
+#############
+*.o
+*.so
